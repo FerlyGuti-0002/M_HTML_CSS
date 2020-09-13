@@ -1,0 +1,168 @@
+@font-face{
+    font-family: "Mi cabecera";
+    src: url(´Fuentes/Roboto-Light.ttf´);
+}
+
+@font-face{
+    font-family: "Mi encabezado";
+    src: url(´Fuentes/Roboto-Light.ttf´);
+}
+@font-face{
+    font-family: "Experiencia";
+    src: url(´Fuentes/Roboto-Light.ttf´);
+}
+
+
+h1{
+    font-family: 'Roboto-Light';
+    font-size: 20px;
+    color: green;
+    text-align: center;
+    margin: -7px;
+    
+}
+
+h2{
+    font-family: 'Roboto-Light';
+    font-size: 15px;
+    color: red;
+    margin-top: 17px;
+    text-align: center;
+    padding-left: 22%;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    font-family: 'Roboto-Light';
+    font-size: 20px;
+    margin-top: 11px;
+    color: green;
+    text-align: center;
+    margin-top: 15%;
+}
+
+h4{
+    font-family: 'Roboto-Light';
+    font-size: 14px;
+    color: black;
+    padding-left: 19%;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h5{
+    font-family: 'Roboto-Light';
+    font-size: 14px;
+    color: black;
+        
+}
+
+h6{
+    font-family: 'Roboto-Light';
+    font-size: 15px;
+    margin-top: 11px;
+    color:red;
+    padding-left: 24%;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+}
+
+h7{
+    font-family: 'Roboto-Light';
+    font-size: 12px;
+    color:red;
+    padding-left: 34%;
+    margin-top: -15px;
+}
+
+
+.Principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.imagen2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -15px;
+}
+
+.imagen3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -15px;
+}
+
+.Titulo1{
+      
+    text-align: center;
+    margin-top: 15px;
+    
+}
+
+.Titulo2{
+    text-align: center;
+    color: green;
+}
+
+.Titulo4{
+    margin-top: -10px;
+    text-align: center;
+    font-size: 12px;
+    color:red;
+}
+
+.Tabla1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Vinculos{
+    
+   text-align: justify;
+    justify-content: center;
+    align-items: center;
+    padding-left: 18%;
+    
+}
+
+.Parrafos{
+    padding-left: 24%;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    position: relative;
+    padding: 3px;
+    clear: both;
+    background: dimgrey;
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    margin-top: 20%;
+    
+    
+}
+
+body{
+    background-color:rgb(233, 227, 227);
+    
+}
+
+div {
+    max-width: 100%;
+    min-height:100%;
+    
+}
