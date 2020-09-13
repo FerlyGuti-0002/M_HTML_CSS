@@ -85,6 +85,7 @@ h7{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 5px;
     
 }
 
@@ -151,7 +152,8 @@ footer{
     text-align: center;
     color: red;
     font-size: 12px;
-    margin-top: 20%;
+    margin-top: 40%;
+    padding-left: -24%;
     
     
 }
